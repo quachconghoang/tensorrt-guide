@@ -5,6 +5,7 @@
 - Using TensorRT to execute model
 - Sample: https://github.com/nickmhnk/yolov3_onnx_tensorrt/blob/master/README.md
 - Pytorch: load YOLOv3 weight - ONNX (?)
+- Sample: https://jkjung-avt.github.io/tensorrt-yolov3/
 
 ## PLAN B: Pytorch: Torch Hub 
 - Follow this instruction: https://pytorch.org/hub/nvidia_deeplearningexamples_ssd/
